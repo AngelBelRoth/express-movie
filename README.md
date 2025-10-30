@@ -1,9 +1,8 @@
 # 🎬 express-movie  
-> A simple Express.js demo app for browsing and managing movies
+> A simple Express.js demo app for voting favourite movies
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 ---
@@ -49,5 +48,6 @@ Clone the repository and install dependencies:
 ```bash
 1. Fork & git clone https://github.com/AngelBelRoth/express-movie.git
 2. cd express-movie
-3. Run `npm install`
+3. Run `npm i`
 4. Navigate to `localhost:8882`
+
